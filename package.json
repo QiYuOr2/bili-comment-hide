@@ -1,0 +1,32 @@
+{
+  "name": "bili-comment-hide",
+  "description": "根据关键词隐藏 b 站评论",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vue-tsc -b && vite preview"
+  },
+  "dependencies": {
+    "@types/xhook": "^1.5.3",
+    "@unocss/reset": "^65.4.3",
+    "@vueuse/core": "^10.7.2",
+    "vue": "^3.5.13",
+    "xhook": "^1.6.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "less": "^4.2.2",
+    "typescript": "^5.7.2",
+    "unocss": "^65.4.3",
+    "vite": "^6.0.5",
+    "vite-plugin-monkey": "^5.0.3",
+    "vue-tsc": "^2.2.0"
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "xhook@1.6.2": "patches/xhook@1.6.2.patch"
+    }
+  }
+}
