@@ -19,8 +19,9 @@ const isExpand = useGMValue('isExpand', true);
       :bg="isExpand ? 'stone-100' : 'white'" 
       :w="isExpand ? 'full' : '12'"  
       cursor-pointer transition-all duration-300 ease-in-out
+      gap-1
     >
-      评论
+      <span>评论</span><span text-xs text-stone-400>{{ isExpand ? '点击这里最小化' : '' }}</span>
     </div>
     <div v-show="isExpand" w="300px">
       <slot></slot>

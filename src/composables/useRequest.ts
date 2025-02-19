@@ -19,20 +19,18 @@ export function useRequestHook(options?: UseRequestHookOptions) {
   xhook.after((request, response) => {
     const rules = toValue(options?.rules ?? []);
 
-    Object.defineProperty(response, "data", {
-      set(v) {
-        for (const rule of rules) {
-          if (matchURL(request.url, rule)) {
+    for (const rule of rules) {
+      if (matchURL(request.url, rule)) {
+        Object.defineProperty(response, "data", {
+          set(v) {
             this._data = rule.response(v);
-            return;
-          }
-        }
-        this._data = v;
-      },
-      get() {
-        return this._data;
-      },
-    });
+          },
+          get() {
+            return this._data;
+          },
+        });
+      }
+    }
   });
 
   console.log("[bili-comment-hide] options?.immediate ", options?.immediate);

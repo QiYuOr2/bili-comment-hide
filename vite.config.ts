@@ -30,11 +30,11 @@ export default defineConfig({
           '*://open-live.bilibili.com/*',
         ],
       },
-      // build: {
-      //   externalGlobals: {
-      //     vue: cdn.jsdelivr('Vue', 'dist/vue.global.prod.js'),
-      //   },
-      // },
+      build: {
+        externalGlobals: {
+          vue: cdn.jsdelivr('Vue', 'dist/vue.global.prod.js'),
+        },
+      },
     }),
   ],
 });

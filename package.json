@@ -1,8 +1,9 @@
 {
   "name": "bili-comment-hide",
   "description": "根据关键词隐藏 b 站评论",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "module",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
