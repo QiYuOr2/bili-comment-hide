@@ -56,7 +56,7 @@ function remove(value: string) {
 
 <template>
   <FloatContainer>
-    <div class="main" box-border w-full px="8px" py="14px">
+    <div class="main" box-border w="290px" px="8px" py="14px">
       <div flex items="center" mb-2>
         <span mr-1>激活隐藏</span>
         <Switch v-model="isChecked" />

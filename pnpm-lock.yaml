@@ -6,7 +6,7 @@ settings:
 
 patchedDependencies:
   xhook@1.6.2:
-    hash: fpkczr6rwmwtso5xnaamgjsoaa
+    hash: uy6kde4tssrqlu2llfcb3pyruq
     path: patches/xhook@1.6.2.patch
 
 dependencies:
@@ -24,7 +24,7 @@ dependencies:
     version: 3.5.13(typescript@5.7.3)
   xhook:
     specifier: ^1.6.2
-    version: 1.6.2(patch_hash=fpkczr6rwmwtso5xnaamgjsoaa)
+    version: 1.6.2(patch_hash=uy6kde4tssrqlu2llfcb3pyruq)
 
 devDependencies:
   '@vitejs/plugin-vue':
@@ -1776,7 +1776,7 @@ packages:
       isexe: 2.0.0
     dev: true
 
-  /xhook@1.6.2(patch_hash=fpkczr6rwmwtso5xnaamgjsoaa):
+  /xhook@1.6.2(patch_hash=uy6kde4tssrqlu2llfcb3pyruq):
     resolution: {integrity: sha512-kmOpJ5SyqpubjIgVXWIdTWYqZmTr3mlqaCa8ISg2IirkpvUOfbWeQbJICqVjQ8fo5tkG3FsKi/Pb2TvUOlMuMQ==}
     dev: false
     patched: true

@@ -1,38 +1,38 @@
 diff --git a/dist/xhook.js b/dist/xhook.js
-index 8cc5c148a8d1ee46927b8be34b2d48a519da7d93..a5026987edf298c249106198594c90576b84835e 100644
+index 8cc5c148a8d1ee46927b8be34b2d48a519da7d93..c88ee0085dedbcca0e0e52fe5ceab4b42bc522e4 100644
 --- a/dist/xhook.js
 +++ b/dist/xhook.js
 @@ -13,6 +13,8 @@ var xhook = (function () {
      self instanceof WorkerGlobalScope
    ) {
      result = self;
-+  } else if (unsafeWindow) {
++  } else if (typeof unsafeWindow !== unsafeWindow) {
 +    result = unsafeWindow;
    } else if (typeof global !== "undefined") {
      result = global;
    } else if (window) {
 diff --git a/es/main.js b/es/main.js
-index 99eba64083ac4c6d5c4242df66aabfd8797b2c80..477ea038dc4d9ce9e5cac9e03dab3d65ecffda28 100644
+index 99eba64083ac4c6d5c4242df66aabfd8797b2c80..283c1f29e991646ab50e6a8c29f93966fc710f37 100644
 --- a/es/main.js
 +++ b/es/main.js
 @@ -8,6 +8,8 @@ if (
    self instanceof WorkerGlobalScope
  ) {
    result = self;
-+} else if (unsafeWindow) {
++} else if (typeof unsafeWindow !== 'undefined') {
 +  result = unsafeWindow;
  } else if (typeof global !== "undefined") {
    result = global;
  } else if (window) {
 diff --git a/lib/main.js b/lib/main.js
-index 87b3ddb11c2ac42ae520913f78c975ec891fa2eb..9d55882b543d13c51458becc027ad987e9c2ae1c 100644
+index 87b3ddb11c2ac42ae520913f78c975ec891fa2eb..90c0d722f077fd67ad848419bf5396871ff95f48 100644
 --- a/lib/main.js
 +++ b/lib/main.js
 @@ -10,6 +10,8 @@ if (
    self instanceof WorkerGlobalScope
  ) {
    result = self;
-+} else if (unsafeWindow) {
++} else if (typeof unsafeWindow !== unsafeWindow) {
 +  result = unsafeWindow;
  } else if (typeof global !== "undefined") {
    result = global;
