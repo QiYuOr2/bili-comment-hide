@@ -1,36 +1,53 @@
 <script setup lang="ts">
-import FloatContainer from './components/FloatContainer.vue';
-import Switch from './components/Switch.vue';
-import InputWithType from './components/InputWithType.vue';
-import { ref, watch } from 'vue';
-import { useRequestHook } from './composables/useRequest';
-import { useGMValue } from './composables/useGMValue';
+import type { Reply } from './types/reply';
+import type { ReplyReplyResponse, ReplyWbiMainResponse } from './types/response';
 
-const tabs = [
-  { name: '关键词', value: 'keywords' },
-  // { name: '正则', value: 'regex' },
-];
+const tabs = {
+  [BlockType.Keyword]: { name: '关键词', value: BlockType.Keyword },
+  [BlockType.UID]: { name: 'UID', value: BlockType.UID },
+};
 
-const currentTab = ref(tabs[0].value);
-
-const keywords = useGMValue<string[]>('keywords', []);
 const isChecked = useGMValue<boolean>('isChecked', true);
+
+const { type, list } = useBlockListWithType({
+  [BlockType.Keyword]: { storageKey: 'keywords', defaultValue: [] },
+  [BlockType.UID]: { storageKey: 'uids', defaultValue: [] }
+})
+
+function filterByKeyword(replies: Reply[], keywords: string[]) {
+  return replies.filter((item) => keywords.every(keyword => item.content.message.indexOf(keyword) === -1));
+}
+
+// mid = uid
+function filterByUID(replies: Reply[], uids: string[]) {
+  return replies.filter((item) => uids.every(uid => item.mid_str !== uid));
+}
+
+const filterMap = {
+  [BlockType.Keyword]: filterByKeyword,
+  [BlockType.UID]: filterByUID,
+};
+ 
 
 const requestHook = useRequestHook({
   rules: [
     {
       url: "x/v2/reply/wbi/main",
-      response: (originResponse: any) => {
-        console.log('[bili-comment-hide] ', keywords.value);
+      response: (originResponse: ReplyWbiMainResponse) => {
         if (originResponse?.data?.replies) {
-          const replies = originResponse.data.replies.slice().filter(
-            (item: any) => keywords.value.every(keyword => item.content.message.indexOf(keyword) === -1)
-          );
+          const repliesFilter = filterMap[type.value];
+          const replies = repliesFilter(originResponse.data.replies.slice(), list.value);
           originResponse.data.replies = replies;
         }
         return originResponse;
       },
     },
+    {
+      url: 'x/v2/reply/reply',
+      response: (originResponse: ReplyReplyResponse) => {
+        return originResponse;
+      }
+    }
   ],
   immediate: isChecked.value,
 });
@@ -40,16 +57,16 @@ watch(isChecked, (value) => {
 });
 
 
-function addKeyword(value: string) {
+function addItem(value: string) {
   if (value) {
-    keywords.value.push(value);
+    list.value.push(value);
   }
 }
 
 function remove(value: string) {
-  const index = keywords.value.indexOf(value);
+  const index = list.value.indexOf(value);
   if (index > -1) {
-    keywords.value.splice(index, 1);
+    list.value.splice(index, 1);
   }
 }
 </script>
@@ -63,20 +80,20 @@ function remove(value: string) {
         <span ml-1 text-xs text-zinc-400>切换后需要刷新页面</span>
       </div>
       <div flex flex-col>
-        <InputWithType mb-1 @add="addKeyword" />
+        <InputWithType mb-1 @add="addItem" :label="tabs[type].name" />
 
         <div my-2 flex items-start gap-2>
-          <div v-for="tab in tabs" :key="tab.value" :class="{ 'text-stone-500': currentTab !== tab.value }"
-            cursor-pointer @click="currentTab = tab.value" transition-all duration-200>
+          <div v-for="tab in Object.values(tabs)" :key="tab.value" :class="{ 'text-stone-500': type !== tab.value }"
+            cursor-pointer @click="type = tab.value" transition-all duration-200>
             <span>{{ tab.name }}列表</span>
           </div>
         </div>
 
-        <ul p-0 m-0 overflow-y-scroll h="430px" v-if="keywords.length > 0">
-          <li v-for="keyword in keywords" :key="keyword" text-sm text-zinc-500 list-none mb-1 flex items-center
+        <ul p-0 m-0 overflow-y-scroll h="430px" v-if="list.length > 0">
+          <li v-for="item in list" :key="item" text-sm text-zinc-500 list-none mb-1 flex items-center
             justify-between pr-1>
-            <span truncate mr-.5>{{ keyword }}</span>
-            <span cursor-pointer p-.5 @click="remove(keyword)">✕</span>
+            <span truncate mr-.5>{{ item }}</span>
+            <span cursor-pointer p-.5 @click="remove(item)">✕</span>
           </li>
         </ul>
         <div text-sm text-zinc-500 flex justify-center items-center mt-30>这里是空的</div>

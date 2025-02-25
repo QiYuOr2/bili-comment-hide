@@ -2,11 +2,21 @@ import { defineConfig } from 'vite';
 import vue from '@vitejs/plugin-vue';
 import monkey, { cdn } from 'vite-plugin-monkey';
 import UnoCSS from 'unocss/vite'
+import AutoImport from 'unplugin-auto-import/vite'
+import Components from 'unplugin-vue-components/vite'
 
 
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [
+    AutoImport({
+      dts: 'src/auto-imports.d.ts',
+      imports: ['vue'],
+      dirs: ['src/composables'],
+    }),
+    Components({
+      dts: 'src/components.d.ts',
+    }),
     vue(),
     UnoCSS(),
     monkey({

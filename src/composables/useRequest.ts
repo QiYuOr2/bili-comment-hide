@@ -1,21 +1,22 @@
 import { MaybeRefOrGetter, toValue } from "vue";
 import xhook from "xhook";
+import type { BiliResponse } from "../types/response";
 
-export interface Rule {
+export interface Rule<T, R> {
   url: string;
-  response: (originResponse: unknown) => xhook.Response;
+  response: (originResponse: T) => R;
 }
 
-interface UseRequestHookOptions {
-  rules: MaybeRefOrGetter<Rule[]>;
+interface UseRequestHookOptions<T, R> {
+  rules: MaybeRefOrGetter<Rule<T, R>[]>;
   immediate?: boolean;
 }
 
-function matchURL(url: string, rule: Rule) {
+function matchURL<T, R>(url: string, rule: Rule<T, R>) {
   return url.includes(rule.url);
 }
 
-export function useRequestHook(options?: UseRequestHookOptions) {
+export function useRequestHook<T, R>(options?: UseRequestHookOptions<T, R>) {
   xhook.after((request, response) => {
     const rules = toValue(options?.rules ?? []);
 

@@ -1,0 +1,2619 @@
+{
+  "code": 0,
+  "message": "0",
+  "ttl": 1,
+  "data": {
+      "page": {
+          "num": 1,
+          "size": 10,
+          "count": 6
+      },
+      "upper": {
+          "mid": 4549624
+      },
+      "replies": [
+          {
+              "rpid": 255626524049,
+              "oid": 114064734817217,
+              "type": 1,
+              "mid": 443884974,
+              "root": 255626200849,
+              "parent": 255626200849,
+              "dialog": 255626524049,
+              "count": 0,
+              "rcount": 0,
+              "state": 0,
+              "fansgrade": 0,
+              "attr": 0,
+              "ctime": 1740490617,
+              "mid_str": "443884974",
+              "oid_str": "114064734817217",
+              "rpid_str": "255626524049",
+              "root_str": "255626200849",
+              "parent_str": "255626200849",
+              "dialog_str": "255626524049",
+              "like": 0,
+              "action": 0,
+              "member": {
+                  "mid": "443884974",
+                  "uname": "酥肉炖蘑菇",
+                  "sex": "保密",
+                  "sign": "（￣▽￣）┘\\(^▽^)",
+                  "avatar": "https://i0.hdslb.com/bfs/face/fbad9e4cad9044b9e533e47805f8213bf9dfbc4e.jpg",
+                  "rank": "10000",
+                  "face_nft_new": 0,
+                  "is_senior_member": 0,
+                  "senior": {},
+                  "level_info": {
+                      "current_level": 5,
+                      "current_min": 0,
+                      "current_exp": 0,
+                      "next_exp": 0
+                  },
+                  "pendant": {
+                      "pid": -873183103,
+                      "name": "Liyuu收藏集",
+                      "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "expire": 0,
+                      "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "image_enhance_frame": "",
+                      "n_pid": 1712818768001
+                  },
+                  "nameplate": {
+                      "nid": 62,
+                      "name": "有爱大佬",
+                      "image": "https://i1.hdslb.com/bfs/face/a10ee6b613e0d68d2dfdac8bbf71b94824e10408.png",
+                      "image_small": "https://i0.hdslb.com/bfs/face/54f4c31ab9b1f1fa2c29dbbc967f66535699337e.png",
+                      "level": "普通勋章",
+                      "condition": "当前持有粉丝勋章最高等级\u003e=15级"
+                  },
+                  "official_verify": {
+                      "type": -1,
+                      "desc": ""
+                  },
+                  "vip": {
+                      "vipType": 2,
+                      "vipDueDate": 1749571200000,
+                      "dueRemark": "",
+                      "accessStatus": 0,
+                      "vipStatus": 1,
+                      "vipStatusWarn": "",
+                      "themeType": 0,
+                      "label": {
+                          "path": "",
+                          "text": "年度大会员",
+                          "label_theme": "annual_vip",
+                          "text_color": "#FFFFFF",
+                          "bg_style": 1,
+                          "bg_color": "#FB7299",
+                          "border_color": "",
+                          "use_img_label": true,
+                          "img_label_uri_hans": "",
+                          "img_label_uri_hant": "",
+                          "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                          "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                      },
+                      "avatar_subscript": 1,
+                      "nickname_color": "#FB7299"
+                  },
+                  "fans_detail": {
+                      "uid": 443884974,
+                      "medal_id": 31774,
+                      "medal_name": "水溅跃",
+                      "score": 0,
+                      "level": 25,
+                      "intimacy": 0,
+                      "master_status": 0,
+                      "is_receive": 0,
+                      "medal_color": 4290039039,
+                      "medal_color_end": 4290039039,
+                      "medal_color_border": 4287473896,
+                      "medal_color_name": 4281882009,
+                      "medal_color_level": 4284383428,
+                      "guard_level": 3,
+                      "guard_icon": "",
+                      "honor_icon": "",
+                      "first_icon": "https://i0.hdslb.com/bfs/live/82d48274d0d84e2c328c4353c38def6eaf5de27a.png",
+                      "medal_level_bg_color": 16777215
+                  },
+                  "user_sailing": {
+                      "pendant": {
+                          "id": 1010,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png",
+                          "jump_url": "",
+                          "type": "sailing",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png",
+                          "image_enhance_frame": ""
+                      },
+                      "cardbg": {
+                          "id": 1006,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/7605b10f0bae26fdc95e359b7ef11e5359783560.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {
+                              "is_fan": 0,
+                              "number": 0,
+                              "color": "",
+                              "name": "",
+                              "num_desc": "",
+                              "num_prefix": "",
+                              "color_format": null
+                          },
+                          "type": "sailing",
+                          "image_group": null
+                      },
+                      "cardbg_with_focus": {
+                          "id": 1384,
+                          "name": "大航海_舰长_关注",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b221f626d8d8f0074241f783d31ff88e1df4064.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {
+                              "is_fan": 0,
+                              "number": 0,
+                              "color": "",
+                              "name": "",
+                              "num_desc": "",
+                              "num_prefix": "",
+                              "color_format": null
+                          },
+                          "type": "sailing",
+                          "image_group": null
+                      }
+                  },
+                  "user_sailing_v2": {
+                      "pendant": {
+                          "id": 1010,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png",
+                          "type": "sailing",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png"
+                      },
+                      "card_bg": {
+                          "id": 1006,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/7605b10f0bae26fdc95e359b7ef11e5359783560.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {},
+                          "type": "sailing"
+                      },
+                      "card_bg_with_focus": {
+                          "id": 1384,
+                          "name": "大航海_舰长_关注",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b221f626d8d8f0074241f783d31ff88e1df4064.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {},
+                          "type": "sailing"
+                      }
+                  },
+                  "is_contractor": false,
+                  "contract_desc": "",
+                  "nft_interaction": null,
+                  "avatar_item": {
+                      "container_size": {
+                          "width": 1.8,
+                          "height": 1.8
+                      },
+                      "fallback_layers": {
+                          "layers": [
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 0.787,
+                                          "height": 0.787
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "AVATAR_LAYER": {},
+                                          "GENERAL_CFG": {
+                                              "config_type": 1,
+                                              "general_config": {
+                                                  "web_css_style": {
+                                                      "borderRadius": "50%"
+                                                  }
+                                              }
+                                          }
+                                      },
+                                      "is_critical": true
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 1,
+                                              "placeholder": 6,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/face/fbad9e4cad9044b9e533e47805f8213bf9dfbc4e.jpg",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              },
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 1.375,
+                                          "height": 1.375
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "PENDENT_LAYER": {}
+                                      }
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 1,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              },
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 1,
+                                          "axis_x": 0.9685,
+                                          "axis_y": 0.9851666666666666
+                                      },
+                                      "size_spec": {
+                                          "width": 0.41666666666666663,
+                                          "height": 0.41666666666666663
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "GENERAL_CFG": {
+                                              "config_type": 1,
+                                              "general_config": {
+                                                  "web_css_style": {
+                                                      "background-color": "rgb(255,255,255)",
+                                                      "border": "2px solid rgba(255,255,255,1)",
+                                                      "borderRadius": "50%",
+                                                      "boxSizing": "border-box"
+                                                  }
+                                              }
+                                          },
+                                          "ICON_LAYER": {}
+                                      }
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 2,
+                                              "local": 1
+                                          }
+                                      }
+                                  }
+                              }
+                          ],
+                          "is_critical_group": true
+                      },
+                      "mid": "443884974"
+                  }
+              },
+              "content": {
+                  "message": "炫彩请我喝",
+                  "members": [],
+                  "jump_url": {},
+                  "max_line": 6
+              },
+              "replies": [],
+              "assist": 0,
+              "up_action": {
+                  "like": false,
+                  "reply": false
+              },
+              "invisible": false,
+              "reply_control": {
+                  "max_line": 6,
+                  "time_desc": "25分钟前发布",
+                  "location": "IP属地：江苏"
+              },
+              "folder": {
+                  "has_folded": false,
+                  "is_folded": false,
+                  "rule": ""
+              },
+              "dynamic_id_str": "0",
+              "note_cvid_str": "0",
+              "track_info": ""
+          },
+          {
+              "rpid": 255626807025,
+              "oid": 114064734817217,
+              "type": 1,
+              "mid": 2501265,
+              "root": 255626200849,
+              "parent": 255626524049,
+              "dialog": 255626524049,
+              "count": 0,
+              "rcount": 0,
+              "state": 0,
+              "fansgrade": 0,
+              "attr": 0,
+              "ctime": 1740490777,
+              "mid_str": "2501265",
+              "oid_str": "114064734817217",
+              "rpid_str": "255626807025",
+              "root_str": "255626200849",
+              "parent_str": "255626524049",
+              "dialog_str": "255626524049",
+              "like": 0,
+              "action": 0,
+              "member": {
+                  "mid": "2501265",
+                  "uname": "蟹老板0728",
+                  "sex": "男",
+                  "sign": "***",
+                  "avatar": "https://i0.hdslb.com/bfs/face/c4e0cacfe19c00895a5faa6ed731355d224f95ff.webp",
+                  "rank": "10000",
+                  "face_nft_new": 0,
+                  "is_senior_member": 0,
+                  "senior": {},
+                  "level_info": {
+                      "current_level": 6,
+                      "current_min": 0,
+                      "current_exp": 0,
+                      "next_exp": 0
+                  },
+                  "pendant": {
+                      "pid": -873183103,
+                      "name": "Liyuu收藏集",
+                      "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "expire": 0,
+                      "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "image_enhance_frame": "",
+                      "n_pid": 1712818768001
+                  },
+                  "nameplate": {
+                      "nid": 62,
+                      "name": "有爱大佬",
+                      "image": "https://i0.hdslb.com/bfs/face/a10ee6b613e0d68d2dfdac8bbf71b94824e10408.png",
+                      "image_small": "https://i2.hdslb.com/bfs/face/54f4c31ab9b1f1fa2c29dbbc967f66535699337e.png",
+                      "level": "普通勋章",
+                      "condition": "当前持有粉丝勋章最高等级\u003e=15级"
+                  },
+                  "official_verify": {
+                      "type": -1,
+                      "desc": ""
+                  },
+                  "vip": {
+                      "vipType": 2,
+                      "vipDueDate": 1826640000000,
+                      "dueRemark": "",
+                      "accessStatus": 0,
+                      "vipStatus": 1,
+                      "vipStatusWarn": "",
+                      "themeType": 0,
+                      "label": {
+                          "path": "",
+                          "text": "年度大会员",
+                          "label_theme": "annual_vip",
+                          "text_color": "#FFFFFF",
+                          "bg_style": 1,
+                          "bg_color": "#FB7299",
+                          "border_color": "",
+                          "use_img_label": true,
+                          "img_label_uri_hans": "",
+                          "img_label_uri_hant": "",
+                          "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                          "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                      },
+                      "avatar_subscript": 1,
+                      "nickname_color": "#FB7299"
+                  },
+                  "fans_detail": {
+                      "uid": 2501265,
+                      "medal_id": 31774,
+                      "medal_name": "水溅跃",
+                      "score": 0,
+                      "level": 24,
+                      "intimacy": 0,
+                      "master_status": 0,
+                      "is_receive": 0,
+                      "medal_color": 866040552,
+                      "medal_color_end": 866040552,
+                      "medal_color_border": 782877673,
+                      "medal_color_name": 4283924408,
+                      "medal_color_level": 4288327890,
+                      "guard_level": 0,
+                      "guard_icon": "",
+                      "honor_icon": "",
+                      "medal_level_bg_color": 16777215
+                  },
+                  "user_sailing": {
+                      "pendant": {
+                          "id": 1712818768001,
+                          "name": "Liyuu收藏集",
+                          "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                          "jump_url": "",
+                          "type": "",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                          "image_enhance_frame": ""
+                      },
+                      "cardbg": null,
+                      "cardbg_with_focus": null
+                  },
+                  "user_sailing_v2": {
+                      "pendant": {
+                          "id": 1712818768001,
+                          "name": "Liyuu收藏集",
+                          "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png"
+                      }
+                  },
+                  "is_contractor": false,
+                  "contract_desc": "",
+                  "nft_interaction": {
+                      "region": {
+                          "type": 1,
+                          "icon": "https://i0.hdslb.com/bfs/activity-plat/static/20220506/334553dd7c506a92b88eaf4d59ac8b4d/j8AeXAkEul.gif",
+                          "show_status": 1
+                      }
+                  },
+                  "avatar_item": {
+                      "container_size": {
+                          "width": 1.8,
+                          "height": 1.8
+                      },
+                      "fallback_layers": {
+                          "layers": [
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 0.94,
+                                          "height": 0.94
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "AVATAR_LAYER": {},
+                                          "GENERAL_CFG": {
+                                              "config_type": 1,
+                                              "general_config": {
+                                                  "web_css_style": {
+                                                      "borderRadius": "50%"
+                                                  }
+                                              }
+                                          }
+                                      },
+                                      "is_critical": true
+                                  },
+                                  "resource": {
+                                      "res_type": 4,
+                                      "res_animation": {
+                                          "webp_src": {
+                                              "src_type": 1,
+                                              "placeholder": 6,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/face/c4e0cacfe19c00895a5faa6ed731355d224f95ff.webp",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              },
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 1.65,
+                                          "height": 1.65
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "PENDENT_LAYER": {}
+                                      }
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 1,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              },
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 1,
+                                          "axis_x": 1.0450000000000002,
+                                          "axis_y": 1.0616666666666668
+                                      },
+                                      "size_spec": {
+                                          "width": 0.41666666666666663,
+                                          "height": 0.41666666666666663
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "GENERAL_CFG": {
+                                              "config_type": 1,
+                                              "general_config": {
+                                                  "web_css_style": {
+                                                      "background-color": "rgb(255,255,255)",
+                                                      "border": "2px solid rgba(255,255,255,1)",
+                                                      "borderRadius": "50%",
+                                                      "boxSizing": "border-box"
+                                                  }
+                                              }
+                                          },
+                                          "ICON_LAYER": {}
+                                      }
+                                  },
+                                  "resource": {
+                                      "res_type": 4,
+                                      "res_animation": {
+                                          "webp_src": {
+                                              "src_type": 1,
+                                              "placeholder": 5,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/activity-plat/static/20220506/334553dd7c506a92b88eaf4d59ac8b4d/j8AeXAkEul.gif",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              }
+                          ],
+                          "is_critical_group": true
+                      },
+                      "mid": "2501265"
+                  }
+              },
+              "content": {
+                  "message": "回复 @酥肉炖蘑菇 :你真喝嘛[微笑]",
+                  "at_name_to_mid": {
+                      "酥肉炖蘑菇": 443884974
+                  },
+                  "at_name_to_mid_str": {
+                      "酥肉炖蘑菇": "443884974"
+                  },
+                  "members": [
+                      {
+                          "mid": "443884974",
+                          "uname": "酥肉炖蘑菇",
+                          "sex": "保密",
+                          "sign": "（￣▽￣）┘\\(^▽^)",
+                          "avatar": "https://i0.hdslb.com/bfs/face/fbad9e4cad9044b9e533e47805f8213bf9dfbc4e.jpg",
+                          "rank": "10000",
+                          "face_nft_new": 0,
+                          "is_senior_member": 0,
+                          "senior": {},
+                          "level_info": {
+                              "current_level": 5,
+                              "current_min": 0,
+                              "current_exp": 0,
+                              "next_exp": 0
+                          },
+                          "pendant": {
+                              "pid": -873183103,
+                              "name": "Liyuu收藏集",
+                              "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                              "expire": 0,
+                              "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                              "image_enhance_frame": "",
+                              "n_pid": 1712818768001
+                          },
+                          "nameplate": {
+                              "nid": 62,
+                              "name": "有爱大佬",
+                              "image": "https://i1.hdslb.com/bfs/face/a10ee6b613e0d68d2dfdac8bbf71b94824e10408.png",
+                              "image_small": "https://i0.hdslb.com/bfs/face/54f4c31ab9b1f1fa2c29dbbc967f66535699337e.png",
+                              "level": "普通勋章",
+                              "condition": "当前持有粉丝勋章最高等级\u003e=15级"
+                          },
+                          "official_verify": {
+                              "type": -1,
+                              "desc": ""
+                          },
+                          "vip": {
+                              "vipType": 2,
+                              "vipDueDate": 1749571200000,
+                              "dueRemark": "",
+                              "accessStatus": 0,
+                              "vipStatus": 1,
+                              "vipStatusWarn": "",
+                              "themeType": 0,
+                              "label": {
+                                  "path": "",
+                                  "text": "年度大会员",
+                                  "label_theme": "annual_vip",
+                                  "text_color": "#FFFFFF",
+                                  "bg_style": 1,
+                                  "bg_color": "#FB7299",
+                                  "border_color": "",
+                                  "use_img_label": true,
+                                  "img_label_uri_hans": "",
+                                  "img_label_uri_hant": "",
+                                  "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                                  "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                              },
+                              "avatar_subscript": 1,
+                              "nickname_color": "#FB7299"
+                          }
+                      }
+                  ],
+                  "emote": {
+                      "[微笑]": {
+                          "id": 1,
+                          "package_id": 1,
+                          "state": 0,
+                          "type": 1,
+                          "attr": 0,
+                          "text": "[微笑]",
+                          "url": "https://i0.hdslb.com/bfs/emote/685612eadc33f6bc233776c6241813385844f182.png",
+                          "meta": {
+                              "size": 1,
+                              "suggest": [
+                                  ""
+                              ]
+                          },
+                          "mtime": 1668688325,
+                          "jump_title": "微笑"
+                      }
+                  },
+                  "jump_url": {},
+                  "max_line": 6
+              },
+              "replies": [],
+              "assist": 0,
+              "up_action": {
+                  "like": false,
+                  "reply": false
+              },
+              "invisible": false,
+              "reply_control": {
+                  "max_line": 6,
+                  "time_desc": "22分钟前发布",
+                  "location": "IP属地：江苏"
+              },
+              "folder": {
+                  "has_folded": false,
+                  "is_folded": false,
+                  "rule": ""
+              },
+              "dynamic_id_str": "0",
+              "note_cvid_str": "0",
+              "track_info": ""
+          },
+          {
+              "rpid": 255626708257,
+              "oid": 114064734817217,
+              "type": 1,
+              "mid": 2501265,
+              "root": 255626200849,
+              "parent": 255626200849,
+              "dialog": 255626708257,
+              "count": 0,
+              "rcount": 0,
+              "state": 0,
+              "fansgrade": 0,
+              "attr": 0,
+              "ctime": 1740490785,
+              "mid_str": "2501265",
+              "oid_str": "114064734817217",
+              "rpid_str": "255626708257",
+              "root_str": "255626200849",
+              "parent_str": "255626200849",
+              "dialog_str": "255626708257",
+              "like": 0,
+              "action": 0,
+              "member": {
+                  "mid": "2501265",
+                  "uname": "蟹老板0728",
+                  "sex": "男",
+                  "sign": "***",
+                  "avatar": "https://i0.hdslb.com/bfs/face/c4e0cacfe19c00895a5faa6ed731355d224f95ff.webp",
+                  "rank": "10000",
+                  "face_nft_new": 0,
+                  "is_senior_member": 0,
+                  "senior": {},
+                  "level_info": {
+                      "current_level": 6,
+                      "current_min": 0,
+                      "current_exp": 0,
+                      "next_exp": 0
+                  },
+                  "pendant": {
+                      "pid": -873183103,
+                      "name": "Liyuu收藏集",
+                      "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "expire": 0,
+                      "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "image_enhance_frame": "",
+                      "n_pid": 1712818768001
+                  },
+                  "nameplate": {
+                      "nid": 62,
+                      "name": "有爱大佬",
+                      "image": "https://i0.hdslb.com/bfs/face/a10ee6b613e0d68d2dfdac8bbf71b94824e10408.png",
+                      "image_small": "https://i2.hdslb.com/bfs/face/54f4c31ab9b1f1fa2c29dbbc967f66535699337e.png",
+                      "level": "普通勋章",
+                      "condition": "当前持有粉丝勋章最高等级\u003e=15级"
+                  },
+                  "official_verify": {
+                      "type": -1,
+                      "desc": ""
+                  },
+                  "vip": {
+                      "vipType": 2,
+                      "vipDueDate": 1826640000000,
+                      "dueRemark": "",
+                      "accessStatus": 0,
+                      "vipStatus": 1,
+                      "vipStatusWarn": "",
+                      "themeType": 0,
+                      "label": {
+                          "path": "",
+                          "text": "年度大会员",
+                          "label_theme": "annual_vip",
+                          "text_color": "#FFFFFF",
+                          "bg_style": 1,
+                          "bg_color": "#FB7299",
+                          "border_color": "",
+                          "use_img_label": true,
+                          "img_label_uri_hans": "",
+                          "img_label_uri_hant": "",
+                          "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                          "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                      },
+                      "avatar_subscript": 1,
+                      "nickname_color": "#FB7299"
+                  },
+                  "fans_detail": {
+                      "uid": 2501265,
+                      "medal_id": 31774,
+                      "medal_name": "水溅跃",
+                      "score": 0,
+                      "level": 24,
+                      "intimacy": 0,
+                      "master_status": 0,
+                      "is_receive": 0,
+                      "medal_color": 866040552,
+                      "medal_color_end": 866040552,
+                      "medal_color_border": 782877673,
+                      "medal_color_name": 4283924408,
+                      "medal_color_level": 4288327890,
+                      "guard_level": 0,
+                      "guard_icon": "",
+                      "honor_icon": "",
+                      "medal_level_bg_color": 16777215
+                  },
+                  "user_sailing": {
+                      "pendant": {
+                          "id": 1712818768001,
+                          "name": "Liyuu收藏集",
+                          "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                          "jump_url": "",
+                          "type": "",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                          "image_enhance_frame": ""
+                      },
+                      "cardbg": null,
+                      "cardbg_with_focus": null
+                  },
+                  "user_sailing_v2": {
+                      "pendant": {
+                          "id": 1712818768001,
+                          "name": "Liyuu收藏集",
+                          "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png"
+                      }
+                  },
+                  "is_contractor": false,
+                  "contract_desc": "",
+                  "nft_interaction": {
+                      "region": {
+                          "type": 1,
+                          "icon": "https://i0.hdslb.com/bfs/activity-plat/static/20220506/334553dd7c506a92b88eaf4d59ac8b4d/j8AeXAkEul.gif",
+                          "show_status": 1
+                      }
+                  },
+                  "avatar_item": {
+                      "container_size": {
+                          "width": 1.8,
+                          "height": 1.8
+                      },
+                      "fallback_layers": {
+                          "layers": [
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 0.94,
+                                          "height": 0.94
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "AVATAR_LAYER": {},
+                                          "GENERAL_CFG": {
+                                              "config_type": 1,
+                                              "general_config": {
+                                                  "web_css_style": {
+                                                      "borderRadius": "50%"
+                                                  }
+                                              }
+                                          }
+                                      },
+                                      "is_critical": true
+                                  },
+                                  "resource": {
+                                      "res_type": 4,
+                                      "res_animation": {
+                                          "webp_src": {
+                                              "src_type": 1,
+                                              "placeholder": 6,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/face/c4e0cacfe19c00895a5faa6ed731355d224f95ff.webp",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              },
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 1.65,
+                                          "height": 1.65
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "PENDENT_LAYER": {}
+                                      }
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 1,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              },
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 1,
+                                          "axis_x": 1.0450000000000002,
+                                          "axis_y": 1.0616666666666668
+                                      },
+                                      "size_spec": {
+                                          "width": 0.41666666666666663,
+                                          "height": 0.41666666666666663
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "GENERAL_CFG": {
+                                              "config_type": 1,
+                                              "general_config": {
+                                                  "web_css_style": {
+                                                      "background-color": "rgb(255,255,255)",
+                                                      "border": "2px solid rgba(255,255,255,1)",
+                                                      "borderRadius": "50%",
+                                                      "boxSizing": "border-box"
+                                                  }
+                                              }
+                                          },
+                                          "ICON_LAYER": {}
+                                      }
+                                  },
+                                  "resource": {
+                                      "res_type": 4,
+                                      "res_animation": {
+                                          "webp_src": {
+                                              "src_type": 1,
+                                              "placeholder": 5,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/activity-plat/static/20220506/334553dd7c506a92b88eaf4d59ac8b4d/j8AeXAkEul.gif",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              }
+                          ],
+                          "is_critical_group": true
+                      },
+                      "mid": "2501265"
+                  }
+              },
+              "content": {
+                  "message": "你是真的快",
+                  "members": [],
+                  "jump_url": {},
+                  "max_line": 6
+              },
+              "replies": [],
+              "assist": 0,
+              "up_action": {
+                  "like": false,
+                  "reply": false
+              },
+              "invisible": false,
+              "reply_control": {
+                  "max_line": 6,
+                  "time_desc": "22分钟前发布",
+                  "location": "IP属地：江苏"
+              },
+              "folder": {
+                  "has_folded": false,
+                  "is_folded": false,
+                  "rule": ""
+              },
+              "dynamic_id_str": "0",
+              "note_cvid_str": "0",
+              "track_info": ""
+          },
+          {
+              "rpid": 255626824257,
+              "oid": 114064734817217,
+              "type": 1,
+              "mid": 40156970,
+              "root": 255626200849,
+              "parent": 255626524049,
+              "dialog": 255626524049,
+              "count": 0,
+              "rcount": 0,
+              "state": 0,
+              "fansgrade": 0,
+              "attr": 0,
+              "ctime": 1740490814,
+              "mid_str": "40156970",
+              "oid_str": "114064734817217",
+              "rpid_str": "255626824257",
+              "root_str": "255626200849",
+              "parent_str": "255626524049",
+              "dialog_str": "255626524049",
+              "like": 0,
+              "action": 0,
+              "member": {
+                  "mid": "40156970",
+                  "uname": "只是一只咸鱼炫彩",
+                  "sex": "女",
+                  "sign": "怎样的雨 怎样的夜\n怎样的我能让你更想念",
+                  "avatar": "https://i2.hdslb.com/bfs/face/5130111bb0ecb5c44d48a3de4fd928fcb7a26a4d.jpg",
+                  "rank": "10000",
+                  "face_nft_new": 0,
+                  "is_senior_member": 0,
+                  "senior": {},
+                  "level_info": {
+                      "current_level": 6,
+                      "current_min": 0,
+                      "current_exp": 0,
+                      "next_exp": 0
+                  },
+                  "pendant": {
+                      "pid": -873183103,
+                      "name": "Liyuu收藏集",
+                      "image": "https://i2.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "expire": 0,
+                      "image_enhance": "https://i2.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "image_enhance_frame": "",
+                      "n_pid": 1712818768001
+                  },
+                  "nameplate": {
+                      "nid": 4,
+                      "name": "青铜殿堂",
+                      "image": "https://i1.hdslb.com/bfs/face/2879cd5fb8518f7c6da75887994c1b2a7fe670bd.png",
+                      "image_small": "https://i0.hdslb.com/bfs/face/6707c120e00a3445933308fd9b7bd9fad99e9ec4.png",
+                      "level": "普通勋章",
+                      "condition": "单个自制视频总播放数\u003e=1万"
+                  },
+                  "official_verify": {
+                      "type": -1,
+                      "desc": ""
+                  },
+                  "vip": {
+                      "vipType": 1,
+                      "vipDueDate": 1722700800000,
+                      "dueRemark": "",
+                      "accessStatus": 0,
+                      "vipStatus": 0,
+                      "vipStatusWarn": "",
+                      "themeType": 0,
+                      "label": {
+                          "path": "",
+                          "text": "",
+                          "label_theme": "",
+                          "text_color": "",
+                          "bg_style": 0,
+                          "bg_color": "",
+                          "border_color": "",
+                          "use_img_label": true,
+                          "img_label_uri_hans": "",
+                          "img_label_uri_hant": "",
+                          "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                          "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                      },
+                      "avatar_subscript": 0,
+                      "nickname_color": ""
+                  },
+                  "fans_detail": {
+                      "uid": 40156970,
+                      "medal_id": 31774,
+                      "medal_name": "水溅跃",
+                      "score": 0,
+                      "level": 16,
+                      "intimacy": 0,
+                      "master_status": 0,
+                      "is_receive": 0,
+                      "medal_color": 866040552,
+                      "medal_color_end": 866040552,
+                      "medal_color_border": 782877673,
+                      "medal_color_name": 4283924408,
+                      "medal_color_level": 4288327890,
+                      "guard_level": 0,
+                      "guard_icon": "",
+                      "honor_icon": "",
+                      "medal_level_bg_color": 16777215
+                  },
+                  "user_sailing": {
+                      "pendant": {
+                          "id": 1712818768001,
+                          "name": "Liyuu收藏集",
+                          "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                          "jump_url": "",
+                          "type": "",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                          "image_enhance_frame": ""
+                      },
+                      "cardbg": {
+                          "id": 67968,
+                          "name": "Liyuu收藏集",
+                          "image": "https://i0.hdslb.com/bfs/garb/open/5c33e783c6f5153095261666f377b7312fac63a3.png",
+                          "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=101687\u0026from=reply\u0026f_source=garb\u0026-Abrowser=live\u0026hybrid_set_header=2\u0026navhide=1\u0026anchor_task=1",
+                          "fan": {
+                              "is_fan": 1,
+                              "number": 719,
+                              "color": "#E5B261",
+                              "name": "",
+                              "num_desc": "000719",
+                              "num_prefix": "CD.",
+                              "color_format": {
+                                  "start_point": "0,0",
+                                  "end_point": "100,100",
+                                  "colors": [
+                                      "#E29D2FFF",
+                                      "#FDC773FF",
+                                      "#FDC773FF",
+                                      "#E19B2EFF"
+                                  ],
+                                  "gradients": [
+                                      0,
+                                      33,
+                                      67,
+                                      100
+                                  ]
+                              }
+                          },
+                          "type": "collect_card",
+                          "image_group": null
+                      },
+                      "cardbg_with_focus": null
+                  },
+                  "user_sailing_v2": {
+                      "pendant": {
+                          "id": 1712818768001,
+                          "name": "Liyuu收藏集",
+                          "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png"
+                      },
+                      "card_bg": {
+                          "id": 67968,
+                          "name": "Liyuu收藏集",
+                          "image": "https://i0.hdslb.com/bfs/garb/open/5c33e783c6f5153095261666f377b7312fac63a3.png",
+                          "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=101687\u0026from=reply\u0026f_source=garb\u0026-Abrowser=live\u0026hybrid_set_header=2\u0026navhide=1\u0026anchor_task=1",
+                          "fan": {
+                              "is_fan": 1,
+                              "number": 719,
+                              "color": "#E5B261",
+                              "num_desc": "000719",
+                              "num_prefix": "CD.",
+                              "color_format": {
+                                  "start_point": "0,0",
+                                  "end_point": "100,100",
+                                  "colors": [
+                                      "#E29D2FFF",
+                                      "#FDC773FF",
+                                      "#FDC773FF",
+                                      "#E19B2EFF"
+                                  ],
+                                  "gradients": [
+                                      0,
+                                      33,
+                                      67,
+                                      100
+                                  ]
+                              }
+                          },
+                          "type": "collect_card"
+                      }
+                  },
+                  "is_contractor": false,
+                  "contract_desc": "",
+                  "nft_interaction": null,
+                  "avatar_item": {
+                      "container_size": {
+                          "width": 1.8,
+                          "height": 1.8
+                      },
+                      "fallback_layers": {
+                          "layers": [
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 0.787,
+                                          "height": 0.787
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "AVATAR_LAYER": {},
+                                          "GENERAL_CFG": {
+                                              "config_type": 1,
+                                              "general_config": {
+                                                  "web_css_style": {
+                                                      "borderRadius": "50%"
+                                                  }
+                                              }
+                                          }
+                                      },
+                                      "is_critical": true
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 1,
+                                              "placeholder": 6,
+                                              "remote": {
+                                                  "url": "https://i2.hdslb.com/bfs/face/5130111bb0ecb5c44d48a3de4fd928fcb7a26a4d.jpg",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              },
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 1.375,
+                                          "height": 1.375
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "PENDENT_LAYER": {}
+                                      }
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 1,
+                                              "remote": {
+                                                  "url": "https://i2.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              }
+                          ],
+                          "is_critical_group": true
+                      },
+                      "mid": "40156970"
+                  }
+              },
+              "content": {
+                  "message": "回复 @酥肉炖蘑菇 :你真喝我真请[Liyuu收藏集_开心][Liyuu收藏集_开心]",
+                  "at_name_to_mid": {
+                      "酥肉炖蘑菇": 443884974
+                  },
+                  "at_name_to_mid_str": {
+                      "酥肉炖蘑菇": "443884974"
+                  },
+                  "members": [
+                      {
+                          "mid": "443884974",
+                          "uname": "酥肉炖蘑菇",
+                          "sex": "保密",
+                          "sign": "（￣▽￣）┘\\(^▽^)",
+                          "avatar": "https://i0.hdslb.com/bfs/face/fbad9e4cad9044b9e533e47805f8213bf9dfbc4e.jpg",
+                          "rank": "10000",
+                          "face_nft_new": 0,
+                          "is_senior_member": 0,
+                          "senior": {},
+                          "level_info": {
+                              "current_level": 5,
+                              "current_min": 0,
+                              "current_exp": 0,
+                              "next_exp": 0
+                          },
+                          "pendant": {
+                              "pid": -873183103,
+                              "name": "Liyuu收藏集",
+                              "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                              "expire": 0,
+                              "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                              "image_enhance_frame": "",
+                              "n_pid": 1712818768001
+                          },
+                          "nameplate": {
+                              "nid": 62,
+                              "name": "有爱大佬",
+                              "image": "https://i1.hdslb.com/bfs/face/a10ee6b613e0d68d2dfdac8bbf71b94824e10408.png",
+                              "image_small": "https://i0.hdslb.com/bfs/face/54f4c31ab9b1f1fa2c29dbbc967f66535699337e.png",
+                              "level": "普通勋章",
+                              "condition": "当前持有粉丝勋章最高等级\u003e=15级"
+                          },
+                          "official_verify": {
+                              "type": -1,
+                              "desc": ""
+                          },
+                          "vip": {
+                              "vipType": 2,
+                              "vipDueDate": 1749571200000,
+                              "dueRemark": "",
+                              "accessStatus": 0,
+                              "vipStatus": 1,
+                              "vipStatusWarn": "",
+                              "themeType": 0,
+                              "label": {
+                                  "path": "",
+                                  "text": "年度大会员",
+                                  "label_theme": "annual_vip",
+                                  "text_color": "#FFFFFF",
+                                  "bg_style": 1,
+                                  "bg_color": "#FB7299",
+                                  "border_color": "",
+                                  "use_img_label": true,
+                                  "img_label_uri_hans": "",
+                                  "img_label_uri_hant": "",
+                                  "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                                  "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                              },
+                              "avatar_subscript": 1,
+                              "nickname_color": "#FB7299"
+                          }
+                      }
+                  ],
+                  "emote": {
+                      "[Liyuu收藏集_开心]": {
+                          "id": 69762,
+                          "package_id": 4845,
+                          "state": 0,
+                          "type": 3,
+                          "attr": 0,
+                          "text": "[Liyuu收藏集_开心]",
+                          "url": "https://i0.hdslb.com/bfs/garb/7c664bce88b8de2b4e726d7353bc2bc828f0293f.png",
+                          "meta": {
+                              "size": 2
+                          },
+                          "mtime": 1713330060,
+                          "jump_title": "开心"
+                      }
+                  },
+                  "jump_url": {},
+                  "max_line": 6
+              },
+              "replies": [],
+              "assist": 0,
+              "up_action": {
+                  "like": false,
+                  "reply": false
+              },
+              "invisible": false,
+              "reply_control": {
+                  "max_line": 6,
+                  "time_desc": "22分钟前发布",
+                  "location": "IP属地：山西"
+              },
+              "folder": {
+                  "has_folded": false,
+                  "is_folded": false,
+                  "rule": ""
+              },
+              "dynamic_id_str": "0",
+              "note_cvid_str": "0",
+              "track_info": ""
+          },
+          {
+              "rpid": 255627629777,
+              "oid": 114064734817217,
+              "type": 1,
+              "mid": 443884974,
+              "root": 255626200849,
+              "parent": 255626807025,
+              "dialog": 255626524049,
+              "count": 0,
+              "rcount": 0,
+              "state": 0,
+              "fansgrade": 0,
+              "attr": 0,
+              "ctime": 1740491394,
+              "mid_str": "443884974",
+              "oid_str": "114064734817217",
+              "rpid_str": "255627629777",
+              "root_str": "255626200849",
+              "parent_str": "255626807025",
+              "dialog_str": "255626524049",
+              "like": 0,
+              "action": 0,
+              "member": {
+                  "mid": "443884974",
+                  "uname": "酥肉炖蘑菇",
+                  "sex": "保密",
+                  "sign": "（￣▽￣）┘\\(^▽^)",
+                  "avatar": "https://i0.hdslb.com/bfs/face/fbad9e4cad9044b9e533e47805f8213bf9dfbc4e.jpg",
+                  "rank": "10000",
+                  "face_nft_new": 0,
+                  "is_senior_member": 0,
+                  "senior": {},
+                  "level_info": {
+                      "current_level": 5,
+                      "current_min": 0,
+                      "current_exp": 0,
+                      "next_exp": 0
+                  },
+                  "pendant": {
+                      "pid": -873183103,
+                      "name": "Liyuu收藏集",
+                      "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "expire": 0,
+                      "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "image_enhance_frame": "",
+                      "n_pid": 1712818768001
+                  },
+                  "nameplate": {
+                      "nid": 62,
+                      "name": "有爱大佬",
+                      "image": "https://i1.hdslb.com/bfs/face/a10ee6b613e0d68d2dfdac8bbf71b94824e10408.png",
+                      "image_small": "https://i0.hdslb.com/bfs/face/54f4c31ab9b1f1fa2c29dbbc967f66535699337e.png",
+                      "level": "普通勋章",
+                      "condition": "当前持有粉丝勋章最高等级\u003e=15级"
+                  },
+                  "official_verify": {
+                      "type": -1,
+                      "desc": ""
+                  },
+                  "vip": {
+                      "vipType": 2,
+                      "vipDueDate": 1749571200000,
+                      "dueRemark": "",
+                      "accessStatus": 0,
+                      "vipStatus": 1,
+                      "vipStatusWarn": "",
+                      "themeType": 0,
+                      "label": {
+                          "path": "",
+                          "text": "年度大会员",
+                          "label_theme": "annual_vip",
+                          "text_color": "#FFFFFF",
+                          "bg_style": 1,
+                          "bg_color": "#FB7299",
+                          "border_color": "",
+                          "use_img_label": true,
+                          "img_label_uri_hans": "",
+                          "img_label_uri_hant": "",
+                          "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                          "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                      },
+                      "avatar_subscript": 1,
+                      "nickname_color": "#FB7299"
+                  },
+                  "fans_detail": {
+                      "uid": 443884974,
+                      "medal_id": 31774,
+                      "medal_name": "水溅跃",
+                      "score": 0,
+                      "level": 25,
+                      "intimacy": 0,
+                      "master_status": 0,
+                      "is_receive": 0,
+                      "medal_color": 4290039039,
+                      "medal_color_end": 4290039039,
+                      "medal_color_border": 4287473896,
+                      "medal_color_name": 4281882009,
+                      "medal_color_level": 4284383428,
+                      "guard_level": 3,
+                      "guard_icon": "",
+                      "honor_icon": "",
+                      "first_icon": "https://i0.hdslb.com/bfs/live/82d48274d0d84e2c328c4353c38def6eaf5de27a.png",
+                      "medal_level_bg_color": 16777215
+                  },
+                  "user_sailing": {
+                      "pendant": {
+                          "id": 1010,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png",
+                          "jump_url": "",
+                          "type": "sailing",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png",
+                          "image_enhance_frame": ""
+                      },
+                      "cardbg": {
+                          "id": 1006,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/7605b10f0bae26fdc95e359b7ef11e5359783560.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {
+                              "is_fan": 0,
+                              "number": 0,
+                              "color": "",
+                              "name": "",
+                              "num_desc": "",
+                              "num_prefix": "",
+                              "color_format": null
+                          },
+                          "type": "sailing",
+                          "image_group": null
+                      },
+                      "cardbg_with_focus": {
+                          "id": 1384,
+                          "name": "大航海_舰长_关注",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b221f626d8d8f0074241f783d31ff88e1df4064.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {
+                              "is_fan": 0,
+                              "number": 0,
+                              "color": "",
+                              "name": "",
+                              "num_desc": "",
+                              "num_prefix": "",
+                              "color_format": null
+                          },
+                          "type": "sailing",
+                          "image_group": null
+                      }
+                  },
+                  "user_sailing_v2": {
+                      "pendant": {
+                          "id": 1010,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png",
+                          "type": "sailing",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png"
+                      },
+                      "card_bg": {
+                          "id": 1006,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/7605b10f0bae26fdc95e359b7ef11e5359783560.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {},
+                          "type": "sailing"
+                      },
+                      "card_bg_with_focus": {
+                          "id": 1384,
+                          "name": "大航海_舰长_关注",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b221f626d8d8f0074241f783d31ff88e1df4064.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {},
+                          "type": "sailing"
+                      }
+                  },
+                  "is_contractor": false,
+                  "contract_desc": "",
+                  "nft_interaction": null,
+                  "avatar_item": {
+                      "container_size": {
+                          "width": 1.8,
+                          "height": 1.8
+                      },
+                      "fallback_layers": {
+                          "layers": [
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 0.787,
+                                          "height": 0.787
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "AVATAR_LAYER": {},
+                                          "GENERAL_CFG": {
+                                              "config_type": 1,
+                                              "general_config": {
+                                                  "web_css_style": {
+                                                      "borderRadius": "50%"
+                                                  }
+                                              }
+                                          }
+                                      },
+                                      "is_critical": true
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 1,
+                                              "placeholder": 6,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/face/fbad9e4cad9044b9e533e47805f8213bf9dfbc4e.jpg",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              },
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 1.375,
+                                          "height": 1.375
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "PENDENT_LAYER": {}
+                                      }
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 1,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              },
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 1,
+                                          "axis_x": 0.9685,
+                                          "axis_y": 0.9851666666666666
+                                      },
+                                      "size_spec": {
+                                          "width": 0.41666666666666663,
+                                          "height": 0.41666666666666663
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "GENERAL_CFG": {
+                                              "config_type": 1,
+                                              "general_config": {
+                                                  "web_css_style": {
+                                                      "background-color": "rgb(255,255,255)",
+                                                      "border": "2px solid rgba(255,255,255,1)",
+                                                      "borderRadius": "50%",
+                                                      "boxSizing": "border-box"
+                                                  }
+                                              }
+                                          },
+                                          "ICON_LAYER": {}
+                                      }
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 2,
+                                              "local": 1
+                                          }
+                                      }
+                                  }
+                              }
+                          ],
+                          "is_critical_group": true
+                      },
+                      "mid": "443884974"
+                  }
+              },
+              "content": {
+                  "message": "回复 @蟹老板0728 :我喝不完炫彩继续喝",
+                  "at_name_to_mid": {
+                      "蟹老板0728": 2501265
+                  },
+                  "at_name_to_mid_str": {
+                      "蟹老板0728": "2501265"
+                  },
+                  "members": [
+                      {
+                          "mid": "2501265",
+                          "uname": "蟹老板0728",
+                          "sex": "男",
+                          "sign": "***",
+                          "avatar": "https://i0.hdslb.com/bfs/face/c4e0cacfe19c00895a5faa6ed731355d224f95ff.webp",
+                          "rank": "10000",
+                          "face_nft_new": 0,
+                          "is_senior_member": 0,
+                          "senior": {},
+                          "level_info": {
+                              "current_level": 6,
+                              "current_min": 0,
+                              "current_exp": 0,
+                              "next_exp": 0
+                          },
+                          "pendant": {
+                              "pid": -873183103,
+                              "name": "Liyuu收藏集",
+                              "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                              "expire": 0,
+                              "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                              "image_enhance_frame": "",
+                              "n_pid": 1712818768001
+                          },
+                          "nameplate": {
+                              "nid": 62,
+                              "name": "有爱大佬",
+                              "image": "https://i0.hdslb.com/bfs/face/a10ee6b613e0d68d2dfdac8bbf71b94824e10408.png",
+                              "image_small": "https://i2.hdslb.com/bfs/face/54f4c31ab9b1f1fa2c29dbbc967f66535699337e.png",
+                              "level": "普通勋章",
+                              "condition": "当前持有粉丝勋章最高等级\u003e=15级"
+                          },
+                          "official_verify": {
+                              "type": -1,
+                              "desc": ""
+                          },
+                          "vip": {
+                              "vipType": 2,
+                              "vipDueDate": 1826640000000,
+                              "dueRemark": "",
+                              "accessStatus": 0,
+                              "vipStatus": 1,
+                              "vipStatusWarn": "",
+                              "themeType": 0,
+                              "label": {
+                                  "path": "",
+                                  "text": "年度大会员",
+                                  "label_theme": "annual_vip",
+                                  "text_color": "#FFFFFF",
+                                  "bg_style": 1,
+                                  "bg_color": "#FB7299",
+                                  "border_color": "",
+                                  "use_img_label": true,
+                                  "img_label_uri_hans": "",
+                                  "img_label_uri_hant": "",
+                                  "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                                  "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                              },
+                              "avatar_subscript": 1,
+                              "nickname_color": "#FB7299"
+                          }
+                      }
+                  ],
+                  "jump_url": {},
+                  "max_line": 6
+              },
+              "replies": [],
+              "assist": 0,
+              "up_action": {
+                  "like": false,
+                  "reply": false
+              },
+              "invisible": false,
+              "reply_control": {
+                  "max_line": 6,
+                  "time_desc": "12分钟前发布",
+                  "location": "IP属地：江苏"
+              },
+              "folder": {
+                  "has_folded": false,
+                  "is_folded": false,
+                  "rule": ""
+              },
+              "dynamic_id_str": "0",
+              "note_cvid_str": "0",
+              "track_info": ""
+          },
+          {
+              "rpid": 255627512049,
+              "oid": 114064734817217,
+              "type": 1,
+              "mid": 443884974,
+              "root": 255626200849,
+              "parent": 255626824257,
+              "dialog": 255626524049,
+              "count": 0,
+              "rcount": 0,
+              "state": 0,
+              "fansgrade": 0,
+              "attr": 0,
+              "ctime": 1740491429,
+              "mid_str": "443884974",
+              "oid_str": "114064734817217",
+              "rpid_str": "255627512049",
+              "root_str": "255626200849",
+              "parent_str": "255626824257",
+              "dialog_str": "255626524049",
+              "like": 0,
+              "action": 0,
+              "member": {
+                  "mid": "443884974",
+                  "uname": "酥肉炖蘑菇",
+                  "sex": "保密",
+                  "sign": "（￣▽￣）┘\\(^▽^)",
+                  "avatar": "https://i0.hdslb.com/bfs/face/fbad9e4cad9044b9e533e47805f8213bf9dfbc4e.jpg",
+                  "rank": "10000",
+                  "face_nft_new": 0,
+                  "is_senior_member": 0,
+                  "senior": {},
+                  "level_info": {
+                      "current_level": 5,
+                      "current_min": 0,
+                      "current_exp": 0,
+                      "next_exp": 0
+                  },
+                  "pendant": {
+                      "pid": -873183103,
+                      "name": "Liyuu收藏集",
+                      "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "expire": 0,
+                      "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "image_enhance_frame": "",
+                      "n_pid": 1712818768001
+                  },
+                  "nameplate": {
+                      "nid": 62,
+                      "name": "有爱大佬",
+                      "image": "https://i1.hdslb.com/bfs/face/a10ee6b613e0d68d2dfdac8bbf71b94824e10408.png",
+                      "image_small": "https://i0.hdslb.com/bfs/face/54f4c31ab9b1f1fa2c29dbbc967f66535699337e.png",
+                      "level": "普通勋章",
+                      "condition": "当前持有粉丝勋章最高等级\u003e=15级"
+                  },
+                  "official_verify": {
+                      "type": -1,
+                      "desc": ""
+                  },
+                  "vip": {
+                      "vipType": 2,
+                      "vipDueDate": 1749571200000,
+                      "dueRemark": "",
+                      "accessStatus": 0,
+                      "vipStatus": 1,
+                      "vipStatusWarn": "",
+                      "themeType": 0,
+                      "label": {
+                          "path": "",
+                          "text": "年度大会员",
+                          "label_theme": "annual_vip",
+                          "text_color": "#FFFFFF",
+                          "bg_style": 1,
+                          "bg_color": "#FB7299",
+                          "border_color": "",
+                          "use_img_label": true,
+                          "img_label_uri_hans": "",
+                          "img_label_uri_hant": "",
+                          "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+                          "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png"
+                      },
+                      "avatar_subscript": 1,
+                      "nickname_color": "#FB7299"
+                  },
+                  "fans_detail": {
+                      "uid": 443884974,
+                      "medal_id": 31774,
+                      "medal_name": "水溅跃",
+                      "score": 0,
+                      "level": 25,
+                      "intimacy": 0,
+                      "master_status": 0,
+                      "is_receive": 0,
+                      "medal_color": 4290039039,
+                      "medal_color_end": 4290039039,
+                      "medal_color_border": 4287473896,
+                      "medal_color_name": 4281882009,
+                      "medal_color_level": 4284383428,
+                      "guard_level": 3,
+                      "guard_icon": "",
+                      "honor_icon": "",
+                      "first_icon": "https://i0.hdslb.com/bfs/live/82d48274d0d84e2c328c4353c38def6eaf5de27a.png",
+                      "medal_level_bg_color": 16777215
+                  },
+                  "user_sailing": {
+                      "pendant": {
+                          "id": 1010,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png",
+                          "jump_url": "",
+                          "type": "sailing",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png",
+                          "image_enhance_frame": ""
+                      },
+                      "cardbg": {
+                          "id": 1006,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/7605b10f0bae26fdc95e359b7ef11e5359783560.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {
+                              "is_fan": 0,
+                              "number": 0,
+                              "color": "",
+                              "name": "",
+                              "num_desc": "",
+                              "num_prefix": "",
+                              "color_format": null
+                          },
+                          "type": "sailing",
+                          "image_group": null
+                      },
+                      "cardbg_with_focus": {
+                          "id": 1384,
+                          "name": "大航海_舰长_关注",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b221f626d8d8f0074241f783d31ff88e1df4064.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {
+                              "is_fan": 0,
+                              "number": 0,
+                              "color": "",
+                              "name": "",
+                              "num_desc": "",
+                              "num_prefix": "",
+                              "color_format": null
+                          },
+                          "type": "sailing",
+                          "image_group": null
+                      }
+                  },
+                  "user_sailing_v2": {
+                      "pendant": {
+                          "id": 1010,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png",
+                          "type": "sailing",
+                          "image_enhance": "https://i0.hdslb.com/bfs/garb/item/1b7684c1de7dfc5aa0c43c55edb247432b0cbe64.png"
+                      },
+                      "card_bg": {
+                          "id": 1006,
+                          "name": "大航海_舰长",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/7605b10f0bae26fdc95e359b7ef11e5359783560.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {},
+                          "type": "sailing"
+                      },
+                      "card_bg_with_focus": {
+                          "id": 1384,
+                          "name": "大航海_舰长_关注",
+                          "image": "https://i0.hdslb.com/bfs/garb/item/1b221f626d8d8f0074241f783d31ff88e1df4064.png",
+                          "jump_url": "https://live.bilibili.com/p/html/live-app-guard-info/index.html?is_live_webview=1\u0026hybrid_set_header=2\u0026data_behavior_id=guard_main_video\u0026uid=4549624",
+                          "fan": {},
+                          "type": "sailing"
+                      }
+                  },
+                  "is_contractor": false,
+                  "contract_desc": "",
+                  "nft_interaction": null,
+                  "avatar_item": {
+                      "container_size": {
+                          "width": 1.8,
+                          "height": 1.8
+                      },
+                      "fallback_layers": {
+                          "layers": [
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 0.787,
+                                          "height": 0.787
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "AVATAR_LAYER": {},
+                                          "GENERAL_CFG": {
+                                              "config_type": 1,
+                                              "general_config": {
+                                                  "web_css_style": {
+                                                      "borderRadius": "50%"
+                                                  }
+                                              }
+                                          }
+                                      },
+                                      "is_critical": true
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 1,
+                                              "placeholder": 6,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/face/fbad9e4cad9044b9e533e47805f8213bf9dfbc4e.jpg",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              },
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 2,
+                                          "axis_x": 0.9,
+                                          "axis_y": 0.9
+                                      },
+                                      "size_spec": {
+                                          "width": 1.375,
+                                          "height": 1.375
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "PENDENT_LAYER": {}
+                                      }
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 1,
+                                              "remote": {
+                                                  "url": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                                                  "bfs_style": "widget-layer-avatar"
+                                              }
+                                          }
+                                      }
+                                  }
+                              },
+                              {
+                                  "visible": true,
+                                  "general_spec": {
+                                      "pos_spec": {
+                                          "coordinate_pos": 1,
+                                          "axis_x": 0.9685,
+                                          "axis_y": 0.9851666666666666
+                                      },
+                                      "size_spec": {
+                                          "width": 0.41666666666666663,
+                                          "height": 0.41666666666666663
+                                      },
+                                      "render_spec": {
+                                          "opacity": 1
+                                      }
+                                  },
+                                  "layer_config": {
+                                      "tags": {
+                                          "GENERAL_CFG": {
+                                              "config_type": 1,
+                                              "general_config": {
+                                                  "web_css_style": {
+                                                      "background-color": "rgb(255,255,255)",
+                                                      "border": "2px solid rgba(255,255,255,1)",
+                                                      "borderRadius": "50%",
+                                                      "boxSizing": "border-box"
+                                                  }
+                                              }
+                                          },
+                                          "ICON_LAYER": {}
+                                      }
+                                  },
+                                  "resource": {
+                                      "res_type": 3,
+                                      "res_image": {
+                                          "image_src": {
+                                              "src_type": 2,
+                                              "local": 1
+                                          }
+                                      }
+                                  }
+                              }
+                          ],
+                          "is_critical_group": true
+                      },
+                      "mid": "443884974"
+                  }
+              },
+              "content": {
+                  "message": "回复 @只是一只咸鱼炫彩 :我真喝但你要给我收拾摊子🤤",
+                  "at_name_to_mid": {
+                      "只是一只咸鱼炫彩": 40156970
+                  },
+                  "at_name_to_mid_str": {
+                      "只是一只咸鱼炫彩": "40156970"
+                  },
+                  "members": [
+                      {
+                          "mid": "40156970",
+                          "uname": "只是一只咸鱼炫彩",
+                          "sex": "女",
+                          "sign": "怎样的雨 怎样的夜\n怎样的我能让你更想念",
+                          "avatar": "https://i2.hdslb.com/bfs/face/5130111bb0ecb5c44d48a3de4fd928fcb7a26a4d.jpg",
+                          "rank": "10000",
+                          "face_nft_new": 0,
+                          "is_senior_member": 0,
+                          "senior": {},
+                          "level_info": {
+                              "current_level": 6,
+                              "current_min": 0,
+                              "current_exp": 0,
+                              "next_exp": 0
+                          },
+                          "pendant": {
+                              "pid": -873183103,
+                              "name": "Liyuu收藏集",
+                              "image": "https://i2.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                              "expire": 0,
+                              "image_enhance": "https://i2.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                              "image_enhance_frame": "",
+                              "n_pid": 1712818768001
+                          },
+                          "nameplate": {
+                              "nid": 4,
+                              "name": "青铜殿堂",
+                              "image": "https://i1.hdslb.com/bfs/face/2879cd5fb8518f7c6da75887994c1b2a7fe670bd.png",
+                              "image_small": "https://i0.hdslb.com/bfs/face/6707c120e00a3445933308fd9b7bd9fad99e9ec4.png",
+                              "level": "普通勋章",
+                              "condition": "单个自制视频总播放数\u003e=1万"
+                          },
+                          "official_verify": {
+                              "type": -1,
+                              "desc": ""
+                          },
+                          "vip": {
+                              "vipType": 1,
+                              "vipDueDate": 1722700800000,
+                              "dueRemark": "",
+                              "accessStatus": 0,
+                              "vipStatus": 0,
+                              "vipStatusWarn": "",
+                              "themeType": 0,
+                              "label": {
+                                  "path": "",
+                                  "text": "",
+                                  "label_theme": "",
+                                  "text_color": "",
+                                  "bg_style": 0,
+                                  "bg_color": "",
+                                  "border_color": "",
+                                  "use_img_label": true,
+                                  "img_label_uri_hans": "",
+                                  "img_label_uri_hant": "",
+                                  "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                                  "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                              },
+                              "avatar_subscript": 0,
+                              "nickname_color": ""
+                          }
+                      }
+                  ],
+                  "jump_url": {},
+                  "max_line": 6
+              },
+              "replies": [],
+              "assist": 0,
+              "up_action": {
+                  "like": false,
+                  "reply": false
+              },
+              "invisible": false,
+              "reply_control": {
+                  "max_line": 6,
+                  "time_desc": "11分钟前发布",
+                  "location": "IP属地：江苏"
+              },
+              "folder": {
+                  "has_folded": false,
+                  "is_folded": false,
+                  "rule": ""
+              },
+              "dynamic_id_str": "0",
+              "note_cvid_str": "0",
+              "track_info": ""
+          }
+      ],
+      "root": {
+          "rpid": 255626200849,
+          "oid": 114064734817217,
+          "type": 1,
+          "mid": 40156970,
+          "root": 0,
+          "parent": 0,
+          "dialog": 0,
+          "count": 6,
+          "rcount": 6,
+          "state": 0,
+          "fansgrade": 0,
+          "attr": 402653184,
+          "ctime": 1740490412,
+          "mid_str": "40156970",
+          "oid_str": "114064734817217",
+          "rpid_str": "255626200849",
+          "root_str": "0",
+          "parent_str": "0",
+          "dialog_str": "0",
+          "like": 24,
+          "action": 0,
+          "member": {
+              "mid": "40156970",
+              "uname": "只是一只咸鱼炫彩",
+              "sex": "女",
+              "sign": "怎样的雨 怎样的夜\n怎样的我能让你更想念",
+              "avatar": "https://i2.hdslb.com/bfs/face/5130111bb0ecb5c44d48a3de4fd928fcb7a26a4d.jpg",
+              "rank": "10000",
+              "face_nft_new": 0,
+              "is_senior_member": 0,
+              "senior": {},
+              "level_info": {
+                  "current_level": 6,
+                  "current_min": 0,
+                  "current_exp": 0,
+                  "next_exp": 0
+              },
+              "pendant": {
+                  "pid": -873183103,
+                  "name": "Liyuu收藏集",
+                  "image": "https://i2.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                  "expire": 0,
+                  "image_enhance": "https://i2.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                  "image_enhance_frame": "",
+                  "n_pid": 1712818768001
+              },
+              "nameplate": {
+                  "nid": 4,
+                  "name": "青铜殿堂",
+                  "image": "https://i1.hdslb.com/bfs/face/2879cd5fb8518f7c6da75887994c1b2a7fe670bd.png",
+                  "image_small": "https://i0.hdslb.com/bfs/face/6707c120e00a3445933308fd9b7bd9fad99e9ec4.png",
+                  "level": "普通勋章",
+                  "condition": "单个自制视频总播放数\u003e=1万"
+              },
+              "official_verify": {
+                  "type": -1,
+                  "desc": ""
+              },
+              "vip": {
+                  "vipType": 1,
+                  "vipDueDate": 1722700800000,
+                  "dueRemark": "",
+                  "accessStatus": 0,
+                  "vipStatus": 0,
+                  "vipStatusWarn": "",
+                  "themeType": 0,
+                  "label": {
+                      "path": "",
+                      "text": "",
+                      "label_theme": "",
+                      "text_color": "",
+                      "bg_style": 0,
+                      "bg_color": "",
+                      "border_color": "",
+                      "use_img_label": true,
+                      "img_label_uri_hans": "",
+                      "img_label_uri_hant": "",
+                      "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                      "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+                  },
+                  "avatar_subscript": 0,
+                  "nickname_color": ""
+              },
+              "fans_detail": {
+                  "uid": 40156970,
+                  "medal_id": 31774,
+                  "medal_name": "水溅跃",
+                  "score": 0,
+                  "level": 16,
+                  "intimacy": 0,
+                  "master_status": 0,
+                  "is_receive": 0,
+                  "medal_color": 866040552,
+                  "medal_color_end": 866040552,
+                  "medal_color_border": 782877673,
+                  "medal_color_name": 4283924408,
+                  "medal_color_level": 4288327890,
+                  "guard_level": 0,
+                  "guard_icon": "",
+                  "honor_icon": "",
+                  "medal_level_bg_color": 16777215
+              },
+              "user_sailing": {
+                  "pendant": {
+                      "id": 1712818768001,
+                      "name": "Liyuu收藏集",
+                      "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "jump_url": "",
+                      "type": "",
+                      "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "image_enhance_frame": ""
+                  },
+                  "cardbg": {
+                      "id": 67968,
+                      "name": "Liyuu收藏集",
+                      "image": "https://i0.hdslb.com/bfs/garb/open/5c33e783c6f5153095261666f377b7312fac63a3.png",
+                      "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=101687\u0026from=reply\u0026f_source=garb\u0026-Abrowser=live\u0026hybrid_set_header=2\u0026navhide=1\u0026anchor_task=1",
+                      "fan": {
+                          "is_fan": 1,
+                          "number": 719,
+                          "color": "#E5B261",
+                          "name": "",
+                          "num_desc": "000719",
+                          "num_prefix": "CD.",
+                          "color_format": {
+                              "start_point": "0,0",
+                              "end_point": "100,100",
+                              "colors": [
+                                  "#E29D2FFF",
+                                  "#FDC773FF",
+                                  "#FDC773FF",
+                                  "#E19B2EFF"
+                              ],
+                              "gradients": [
+                                  0,
+                                  33,
+                                  67,
+                                  100
+                              ]
+                          }
+                      },
+                      "type": "collect_card",
+                      "image_group": null
+                  },
+                  "cardbg_with_focus": null
+              },
+              "user_sailing_v2": {
+                  "pendant": {
+                      "id": 1712818768001,
+                      "name": "Liyuu收藏集",
+                      "image": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                      "image_enhance": "https://i0.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png"
+                  },
+                  "card_bg": {
+                      "id": 67968,
+                      "name": "Liyuu收藏集",
+                      "image": "https://i0.hdslb.com/bfs/garb/open/5c33e783c6f5153095261666f377b7312fac63a3.png",
+                      "jump_url": "https://www.bilibili.com/h5/mall/digital-card/home?act_id=101687\u0026from=reply\u0026f_source=garb\u0026-Abrowser=live\u0026hybrid_set_header=2\u0026navhide=1\u0026anchor_task=1",
+                      "fan": {
+                          "is_fan": 1,
+                          "number": 719,
+                          "color": "#E5B261",
+                          "num_desc": "000719",
+                          "num_prefix": "CD.",
+                          "color_format": {
+                              "start_point": "0,0",
+                              "end_point": "100,100",
+                              "colors": [
+                                  "#E29D2FFF",
+                                  "#FDC773FF",
+                                  "#FDC773FF",
+                                  "#E19B2EFF"
+                              ],
+                              "gradients": [
+                                  0,
+                                  33,
+                                  67,
+                                  100
+                              ]
+                          }
+                      },
+                      "type": "collect_card"
+                  }
+              },
+              "is_contractor": false,
+              "contract_desc": "",
+              "nft_interaction": null,
+              "avatar_item": {
+                  "container_size": {
+                      "width": 1.8,
+                      "height": 1.8
+                  },
+                  "fallback_layers": {
+                      "layers": [
+                          {
+                              "visible": true,
+                              "general_spec": {
+                                  "pos_spec": {
+                                      "coordinate_pos": 2,
+                                      "axis_x": 0.9,
+                                      "axis_y": 0.9
+                                  },
+                                  "size_spec": {
+                                      "width": 0.787,
+                                      "height": 0.787
+                                  },
+                                  "render_spec": {
+                                      "opacity": 1
+                                  }
+                              },
+                              "layer_config": {
+                                  "tags": {
+                                      "AVATAR_LAYER": {},
+                                      "GENERAL_CFG": {
+                                          "config_type": 1,
+                                          "general_config": {
+                                              "web_css_style": {
+                                                  "borderRadius": "50%"
+                                              }
+                                          }
+                                      }
+                                  },
+                                  "is_critical": true
+                              },
+                              "resource": {
+                                  "res_type": 3,
+                                  "res_image": {
+                                      "image_src": {
+                                          "src_type": 1,
+                                          "placeholder": 6,
+                                          "remote": {
+                                              "url": "https://i2.hdslb.com/bfs/face/5130111bb0ecb5c44d48a3de4fd928fcb7a26a4d.jpg",
+                                              "bfs_style": "widget-layer-avatar"
+                                          }
+                                      }
+                                  }
+                              }
+                          },
+                          {
+                              "visible": true,
+                              "general_spec": {
+                                  "pos_spec": {
+                                      "coordinate_pos": 2,
+                                      "axis_x": 0.9,
+                                      "axis_y": 0.9
+                                  },
+                                  "size_spec": {
+                                      "width": 1.375,
+                                      "height": 1.375
+                                  },
+                                  "render_spec": {
+                                      "opacity": 1
+                                  }
+                              },
+                              "layer_config": {
+                                  "tags": {
+                                      "PENDENT_LAYER": {}
+                                  }
+                              },
+                              "resource": {
+                                  "res_type": 3,
+                                  "res_image": {
+                                      "image_src": {
+                                          "src_type": 1,
+                                          "remote": {
+                                              "url": "https://i2.hdslb.com/bfs/garb/open/25fbe6ecbe98a692aaa22df4011dfea8f0522fdc.png",
+                                              "bfs_style": "widget-layer-avatar"
+                                          }
+                                      }
+                                  }
+                              }
+                          }
+                      ],
+                      "is_critical_group": true
+                  },
+                  "mid": "40156970"
+              }
+          },
+          "content": {
+              "message": "豆汁已喝，和鱼宝干杯[Liyuu收藏集_点赞][Liyuu收藏集_吃吃吃]",
+              "members": [],
+              "emote": {
+                  "[Liyuu收藏集_吃吃吃]": {
+                      "id": 69751,
+                      "package_id": 4845,
+                      "state": 0,
+                      "type": 3,
+                      "attr": 0,
+                      "text": "[Liyuu收藏集_吃吃吃]",
+                      "url": "https://i0.hdslb.com/bfs/garb/e31bca7af8ece1bf742f5b3e7b1cf983892e5e3f.png",
+                      "meta": {
+                          "size": 2
+                      },
+                      "mtime": 1713330060,
+                      "jump_title": "吃吃吃"
+                  },
+                  "[Liyuu收藏集_点赞]": {
+                      "id": 69753,
+                      "package_id": 4845,
+                      "state": 0,
+                      "type": 3,
+                      "attr": 0,
+                      "text": "[Liyuu收藏集_点赞]",
+                      "url": "https://i0.hdslb.com/bfs/garb/b3b0a4122d96737be73c3d0581f0b63894456637.png",
+                      "meta": {
+                          "size": 2
+                      },
+                      "mtime": 1713330060,
+                      "jump_title": "点赞"
+                  }
+              },
+              "jump_url": {},
+              "max_line": 6,
+              "pictures": [
+                  {
+                      "img_src": "http://i0.hdslb.com/bfs/new_dyn/1bfa5792694829e5f90b8397967721f440156970.jpg",
+                      "img_width": 1440,
+                      "img_height": 1080,
+                      "img_size": 874.75
+                  }
+              ],
+              "picture_scale": 1
+          },
+          "replies": null,
+          "assist": 0,
+          "up_action": {
+              "like": false,
+              "reply": false
+          },
+          "invisible": false,
+          "reply_control": {
+              "max_line": 6,
+              "sub_reply_entry_text": "共 6 条回复",
+              "sub_reply_title_text": "相关回复共6条",
+              "time_desc": "28分钟前发布",
+              "biz_scene": "opus_1037887492902092804",
+              "location": "IP属地：山西",
+              "is_note_v2": true
+          },
+          "folder": {
+              "has_folded": false,
+              "is_folded": false,
+              "rule": ""
+          },
+          "dynamic_id": 1037887492902092804,
+          "dynamic_id_str": "1037887492902092804",
+          "note_cvid_str": "0",
+          "track_info": ""
+      },
+      "config": {
+          "showtopic": 0,
+          "show_up_flag": false,
+          "read_only": false
+      },
+      "control": {
+          "input_disable": false,
+          "root_input_text": "你渴望拥有力量吗？评论让力量更强大",
+          "child_input_text": "你渴望拥有力量吗？评论让力量更强大",
+          "giveup_input_text": "不发没关系，请继续友善哦~",
+          "screenshot_icon_state": 1,
+          "upload_picture_icon_state": 1,
+          "answer_guide_text": "需要升级成为lv2会员后才可以评论，先去答题转正吧！",
+          "answer_guide_icon_url": "http://i0.hdslb.com/bfs/emote/96940d16602cacbbac796245b7bb99fa9b5c970c.png",
+          "answer_guide_ios_url": "https://www.bilibili.com/h5/newbie/entry?navhide=1\u0026re_src=12",
+          "answer_guide_android_url": "https://www.bilibili.com/h5/newbie/entry?navhide=1\u0026re_src=6",
+          "bg_text": "",
+          "empty_page": null,
+          "show_type": 1,
+          "show_text": "",
+          "web_selection": false,
+          "disable_jump_emote": false,
+          "enable_charged": false,
+          "enable_cm_biz_helper": false,
+          "preload_resources": null
+      }
+  }
+}
