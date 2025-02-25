@@ -27,26 +27,26 @@ const filterMap = {
   [BlockType.Keyword]: filterByKeyword,
   [BlockType.UID]: filterByUID,
 };
- 
+
+
+function handleReplyResponse(originResponse: ReplyReplyResponse | ReplyWbiMainResponse) {
+  if (originResponse?.data?.replies) {
+    const repliesFilter = filterMap[type.value];
+    const replies = repliesFilter(originResponse.data.replies.slice(), list.value);
+    originResponse.data.replies = replies;
+  }
+  return originResponse;
+}
 
 const requestHook = useRequestHook({
   rules: [
     {
       url: "x/v2/reply/wbi/main",
-      response: (originResponse: ReplyWbiMainResponse) => {
-        if (originResponse?.data?.replies) {
-          const repliesFilter = filterMap[type.value];
-          const replies = repliesFilter(originResponse.data.replies.slice(), list.value);
-          originResponse.data.replies = replies;
-        }
-        return originResponse;
-      },
+      response: handleReplyResponse,
     },
     {
       url: 'x/v2/reply/reply',
-      response: (originResponse: ReplyReplyResponse) => {
-        return originResponse;
-      }
+      response: handleReplyResponse,
     }
   ],
   immediate: isChecked.value,
